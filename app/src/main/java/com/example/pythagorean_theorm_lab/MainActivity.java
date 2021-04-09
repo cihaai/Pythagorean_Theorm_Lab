@@ -26,9 +26,7 @@ public class MainActivity extends AppCompatActivity {
         this.cdeg = this.findViewById(R.id.cdeg);
 
     }
-
-    // penis
-    // PENIS
+    
 
     public void onCalcButtonClicked(View v)
     {
